@@ -1,0 +1,30 @@
+# Core
+python-dotenv==1.0.1
+pandas==2.2.2
+numpy==1.26.4
+
+# LLM providers (install what you need — all listed so any path works)
+openai==1.40.0
+anthropic==0.34.0
+
+# Orchestration
+langchain==0.2.14
+langchain-community==0.2.12
+langgraph==0.2.14
+
+# Retrieval / embeddings
+sentence-transformers==3.0.1
+chromadb==0.5.5
+faiss-cpu==1.8.0
+rank-bm25==0.2.2
+tiktoken==0.7.0
+
+# Optional reranker (stretch goal)
+# cross-encoder support already included via sentence-transformers
+
+# Evaluation
+ragas==0.1.14
+deepeval==1.1.9
+
+# Testing / utils
+pytest==8.3.2

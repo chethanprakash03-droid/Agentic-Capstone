@@ -1,0 +1,35 @@
+{
+  "ragas": {},
+  "llm_judge": [
+    {
+      "query": "Can I postpone my EMI payment if I'm going through financial hardship?",
+      "scores": {
+        "relevance": 5,
+        "faithfulness": 4,
+        "completeness": 3,
+        "tone_safety": 5,
+        "reasoning": "The answer accurately addresses the question and cites a source for its claim about instalment deferral, but lacks specific details on the approval process and potential consequences of postponement."
+      }
+    },
+    {
+      "query": "How much will I be charged if I close my account after 2 months?",
+      "scores": {
+        "relevance": 5,
+        "faithfulness": 4,
+        "completeness": 3,
+        "tone_safety": 5,
+        "reasoning": "The answer accurately cites the relevant source and provides a clear explanation of the policy, but it does not explicitly state that there is no closure charge after 2 months."
+      }
+    },
+    {
+      "query": "What's the capital of France?",
+      "scores": {
+        "relevance": 5,
+        "faithfulness": 5,
+        "completeness": 1,
+        "tone_safety": 4,
+        "reasoning": "The answer correctly acknowledges the lack of relevant information and provides a clear escalation path."
+      }
+    }
+  ]
+}

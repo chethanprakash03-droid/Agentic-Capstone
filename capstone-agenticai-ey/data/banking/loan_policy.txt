@@ -1,0 +1,39 @@
+PERSONAL LOAN POLICY — FICTIONAL BANK (v3.2)
+
+1. Eligibility
+Applicants must be salaried or self-employed individuals aged 21 to 60 years, with a
+minimum monthly net income of INR 25,000 for salaried applicants or annual turnover of
+INR 12,00,000 for self-employed applicants. A minimum credit score of 700 is required
+for standard approval; applicants with a score between 650 and 699 may be considered
+under the Secondary Review process with additional documentation.
+
+2. Loan Amount and Tenure
+Personal loans range from INR 50,000 to INR 25,00,000. Repayment tenure ranges from 12
+to 60 months. The maximum loan amount is capped at 20 times the applicants average
+monthly net income.
+
+3. Interest Rates
+Interest rates range from 10.5% to 18% per annum, determined by credit score, income
+stability, and existing debt-to-income ratio. Rates are fixed for the full tenure and
+do not change after disbursement.
+
+4. Processing Fee
+A one-time processing fee of 1.5% of the loan amount (minimum INR 1,000, maximum INR
+15,000) is charged at disbursement. This fee is non-refundable once the loan is
+disbursed, but is fully refunded if the application is rejected.
+
+5. Prepayment and Foreclosure
+Loans may be foreclosed after 6 EMIs have been paid. A foreclosure charge of 3% of the
+outstanding principal applies. Partial prepayment is allowed up to twice per year with
+no charge, provided each prepayment is at least 2 EMIs worth of principal.
+
+6. EMI Calculation
+EMI is calculated using the standard reducing-balance formula:
+EMI = P x r x (1+r)^n / ((1+r)^n - 1)
+where P = principal, r = monthly interest rate (annual rate / 12 / 100), n = tenure in
+months.
+
+7. Application Window
+Loan applications remain open for processing for 90 days from the date of submission.
+Applications not completed (missing documents, no response to queries) within this
+window are automatically closed and must be resubmitted.

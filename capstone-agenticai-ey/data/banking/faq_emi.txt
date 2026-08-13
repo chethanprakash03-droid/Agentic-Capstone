@@ -1,0 +1,27 @@
+FREQUENTLY ASKED QUESTIONS — EMI AND REPAYMENT
+
+Q: Can I postpone my EMI (instalment deferral)?
+A: Instalment deferral is available for customers facing genuine financial hardship,
+subject to approval. Customers may request deferral of up to 2 EMIs per loan tenure.
+Interest continues to accrue during the deferral period, and the tenure is extended
+accordingly. Deferral requests must be submitted at least 5 working days before the
+due EMI date.
+
+Q: What happens if I miss an EMI payment?
+A: A missed EMI attracts a late payment charge of 2% of the overdue amount plus
+applicable GST. If an EMI remains unpaid for more than 90 days, the account is
+classified as a Non-Performing Asset (NPA) and reported to credit bureaus, which may
+significantly impact the customer's credit score.
+
+Q: Can I change my EMI due date?
+A: Yes, the EMI due date can be changed once per loan tenure, subject to a processing
+fee of INR 500. Requests must be submitted through the customer portal or branch.
+
+Q: How is the EMI amount calculated?
+A: EMI is calculated using the reducing balance method based on principal, interest
+rate, and tenure. See the Loan Policy document (loan_policy.txt) for the exact formula.
+
+Q: Can I make a part-payment to reduce my EMI or tenure?
+A: Yes, part-payments reduce the outstanding principal. Customers can choose to either
+reduce the EMI amount (keeping tenure the same) or reduce the tenure (keeping EMI the
+same) at the time of part-payment.
